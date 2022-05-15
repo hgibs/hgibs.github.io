@@ -1,0 +1,61 @@
+==================================================================
+https://keybase.io/coppersunrise
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.hollandgibson.com
+  * I am coppersunrise (https://keybase.io/coppersunrise) on keybase.
+  * I have a public key ASAks2UyPhpavY9tF-zGJ4K3752uXVr9BKP2mCaAmK5Ivwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"01201b9007fa54c62d311e54900cc17b6608a78ad903bdeec59ce852af20b0f41a0d0a",
+      "host": "keybase.io",
+      "kid": 
+"012024b365323e1a5abd8f6d17ecc62782b7ef9dae5d5afd04a3f698268098ae48bf0a",
+      "uid": "79672f325ba12beab93c59d22caf9b19",
+      "username": "coppersunrise"
+    },
+    "merkle_root": {
+      "ctime": 1652367274,
+      "hash": 
+"ee70e1420d501a1fc86548d1e287a471b95517ee8f5a98dc41d7a5d94911f4291003649b8b93b0765a0c16ded2655ef6df6eeb8327c64fabe6c1449471883f06",
+      "hash_meta": 
+"ad0f7e445918ab3b64cc1a9ff22e0f5e03df582e6e74711939fdb54ef31ff884",
+      "seqno": 22473889
+    },
+    "service": {
+      "entropy": "p+V+JwNXFCRXGQ5pYpcet0Pb",
+      "hostname": "www.hollandgibson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1652367312,
+  "expire_in": 504576000,
+  "prev": 
+"db9ca284ffb56e5234db52e7e20683e1c1415594d37fa29ca85b867b6fa94525",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJLNlMj4aWr2PbRfsxieCt++drl1a/QSj9pgmgJiuSL8Kp3BheWxvYWTESpcCEsQg25yihP+1blI021Ln4gaD4cFBVZTTf6KcqFuGe2+pRSXEIF0Zd6/m85zOG1deleZgq5iEb+CzQOzPgBSyG1HqyRw3AgHCo3NpZ8RAK6YyrZXrfyTWQiPQ/PtwSoKHlTSOa7y05ElJ8hwwO4jO3YBiRxayw8Llrz/wCFm1U8vcPMTvMOv3QutG7lS6DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGBJ9NPtk9H4QGfdvRYTFl5mcRnlfBUZpeR95XPY/GKMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/coppersunrise
+
+==================================================================
