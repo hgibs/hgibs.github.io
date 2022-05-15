@@ -13,24 +13,20 @@ To do so, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": 
-"01201b9007fa54c62d311e54900cc17b6608a78ad903bdeec59ce852af20b0f41a0d0a",
+      "eldest_kid": "01201b9007fa54c62d311e54900cc17b6608a78ad903bdeec59ce852af20b0f41a0d0a",
       "host": "keybase.io",
-      "kid": 
-"012024b365323e1a5abd8f6d17ecc62782b7ef9dae5d5afd04a3f698268098ae48bf0a",
+      "kid": "012024b365323e1a5abd8f6d17ecc62782b7ef9dae5d5afd04a3f698268098ae48bf0a",
       "uid": "79672f325ba12beab93c59d22caf9b19",
       "username": "coppersunrise"
     },
     "merkle_root": {
-      "ctime": 1652367274,
-      "hash": 
-"ee70e1420d501a1fc86548d1e287a471b95517ee8f5a98dc41d7a5d94911f4291003649b8b93b0765a0c16ded2655ef6df6eeb8327c64fabe6c1449471883f06",
-      "hash_meta": 
-"ad0f7e445918ab3b64cc1a9ff22e0f5e03df582e6e74711939fdb54ef31ff884",
-      "seqno": 22473889
+      "ctime": 1652656029,
+      "hash": "30b1f90cca880ebae378f078f8f942f364477291247021b3c962be1d58e74e29a9125789b34bb24cf02729d38662a24ea64dcf040313adad0835d50ebb71b463",
+      "hash_meta": "79068a186cc662bd87e6987812c4ad9cc40f94827a5d7b3ab3c6fbb9b1c0c64f",
+      "seqno": 22492262
     },
     "service": {
-      "entropy": "p+V+JwNXFCRXGQ5pYpcet0Pb",
+      "entropy": "+X7IoaXwcIj2nfrNE9Qg3aFS",
       "hostname": "www.hollandgibson.com",
       "protocol": "https:"
     },
@@ -41,17 +37,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "5.9.2"
   },
-  "ctime": 1652367312,
+  "ctime": 1652656043,
   "expire_in": 504576000,
-  "prev": 
-"db9ca284ffb56e5234db52e7e20683e1c1415594d37fa29ca85b867b6fa94525",
-  "seqno": 18,
+  "prev": "fcc8c4fac56ff5ee80754b02e5290f1e60ae455893ef6eb0b7a08ee9b0bb9952",
+  "seqno": 20,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJLNlMj4aWr2PbRfsxieCt++drl1a/QSj9pgmgJiuSL8Kp3BheWxvYWTESpcCEsQg25yihP+1blI021Ln4gaD4cFBVZTTf6KcqFuGe2+pRSXEIF0Zd6/m85zOG1deleZgq5iEb+CzQOzPgBSyG1HqyRw3AgHCo3NpZ8RAK6YyrZXrfyTWQiPQ/PtwSoKHlTSOa7y05ElJ8hwwO4jO3YBiRxayw8Llrz/wCFm1U8vcPMTvMOv3QutG7lS6DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGBJ9NPtk9H4QGfdvRYTFl5mcRnlfBUZpeR95XPY/GKMo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJLNlMj4aWr2PbRfsxieCt++drl1a/QSj9pgmgJiuSL8Kp3BheWxvYWTESpcCFMQg/MjE+sVv9e6AdUsC5SkPHmCuRViT726wt6CO6bC7mVLEIPxL3rgFB/7cvRQUmyWA2pMGM7UjvMTN+7QYnWE9GvtfAgHCo3NpZ8RAjMn1CPM3cqOwJRzmnPy1lHWbVVRR15TO8Eq7b+Pi14mtca1OGzMNU84sECi/0dhOycPeXi+o/LMG/5JnlEmYCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDV5jjkMg3NqwLhDCcUowNugbptbsqZPVfzgq/YV6eMuo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
